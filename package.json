@@ -1,0 +1,30 @@
+{
+  "name": "started",
+  "version": "1.0.0",
+  "description": "A Discord bot that helps start servers.",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TailsEraYT/Started.git"
+  },
+  "keywords": [
+    "discord",
+    "discord",
+    "bot",
+    "TailsEraYT"
+  ],
+  "author": "TailsEraYT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TailsEraYT/Started/issues"
+  },
+  "homepage": "https://github.com/TailsEraYT/Started#readme"
+}
